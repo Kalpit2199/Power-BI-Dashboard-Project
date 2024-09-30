@@ -1,5 +1,7 @@
 # Power-BI-Dashboard-Project
-* **Project Overview:**
+**_File Name: Sales Power BI Report/Dashboard.pbix_**
+
+**Project Overview:**
 
 Developed an interactive Power BI dashboard to visualize and analyze sales data, enhancing decision-making processes.
 
