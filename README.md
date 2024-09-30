@@ -1,5 +1,5 @@
 # Power-BI-Dashboard-Project
-**_File Name: Sales Power BI Report/Dashboard.pbix_**
+**_File Name: Sales Power BI Report-Dashboard.pbix_**
 
 **Project Overview:**
 
