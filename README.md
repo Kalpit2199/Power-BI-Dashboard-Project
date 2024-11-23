@@ -1,9 +1,9 @@
-# Power-BI-Dashboard-Project
-**_File Name: Sales Power BI Report-Dashboard.pbix_**
+# Power-BI-Report-Project
+**_File Name: Sales Power BI Report.pbix_**
 
 **Project Overview:**
 
-Developed an interactive Power BI dashboard to visualize and analyze sales data, enhancing decision-making processes.
+Developed an interactive Power BI report to visualize and analyze sales data, enhancing decision-making processes.
 
 _Data Sources:_ Integrated data from an Excel file.
 
@@ -33,11 +33,11 @@ _Monthly Sales:_ Bar chart showing current year’s monthly sales, unaffected by
 
 _User Interaction:_ Implemented slicers and filters to allow users to interact with the data and customize their views.
 
-_Performance Optimization:_ Optimized dashboard performance by reducing data load times and improving query efficiency.
+_Performance Optimization:_ Optimized report performance by reducing data load times and improving query efficiency.
 
 _Insights:_ Provided actionable insights into sales trends, customer behavior, and product performance.
 
-_Publishing:_ Published the dashboard to Power BI Service for easy access and sharing with stakeholders.
+_Publishing:_ Published the report to Power BI Service for easy access and sharing with stakeholders.
 
 * **_Impact:_**
 
